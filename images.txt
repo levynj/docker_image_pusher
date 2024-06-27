@@ -1,3 +1,2 @@
-nginx
-alpine
---platform=linux/amd64 mongodb/mongodb-community-server:5.0-ubuntu2004
+--platform=linux/amd64 redis
+--platform=linux/amd64 deadok22/docker-oracle-xe-11g
